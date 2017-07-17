@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_down">#9F9FFF</color>
+    <color name="key_down">#8A8A8A</color>
+    <color name="key_up">#626262</color>
+
+
+    <color name="text_in_color">#000000</color>
+    <color name="text_out_color">#111111</color>
+    <color name="text_dark_red">#B11600</color>
+    <color name="background_blue">#AFAFFF</color>
+    <color name="background_transparent">#00000000</color>
+    <color name="view_background_light">#AFAFFF</color>
+    <color name="view_background_dark">#5F5FFF</color>
+    <color name="white">#ffffffff</color>
+    <color name="background_ground">#FFFFFF</color>
+
+    <color name="background_activity">#FFFFFF</color>
+</resources>
